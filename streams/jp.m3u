@@ -9,8 +9,6 @@ https://ythlsgo.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 https://ythlsgo.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp",BS Asahi (720p)
 http://203.162.235.41:29108
-#EXTINF:-1 tvg-id="BSFuji.jp",BS Fuji TV (720p)
-http://203.162.235.41:22101
 #EXTINF:-1 tvg-id="BSNipponTV.jp",BS Nippon TV (720p)
 http://203.162.235.41:24103
 #EXTINF:-1 tvg-id="BSTBS.jp",BS TBS (720p)
@@ -128,11 +126,13 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="STVNewsHokkaido.jp",STV News Hokkaido (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp",TBS (720p)
-http://203.162.235.41:18097
+http://203.162.235.41:17097
 #EXTINF:-1 tvg-id="JORXDTV.jp",TBS (540p) [Not 24/7]
 https://tbs3.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TBSNews.jp",TBS News (720p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
+http://203.162.235.41:22101
 #EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
@@ -148,7 +148,7 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TulipTVYouTube.jp",Tulip TV (Youtube) (720p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp",TV Asahi (720p)
-http://203.162.235.41:17097
+http://203.162.235.41:18097
 #EXTINF:-1 tvg-id="JOTXDTV.jp",TV Tokyo (720p)
 http://203.162.235.41:19098
 #EXTINF:-1 tvg-id="",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
